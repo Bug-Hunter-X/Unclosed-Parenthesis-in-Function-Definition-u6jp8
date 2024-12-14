@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: forgetting to close parentheses in function definitions. The `unclosed_parenthesis.py` file contains the buggy code, while `unclosed_parenthesis_solution.py` provides the corrected version.
